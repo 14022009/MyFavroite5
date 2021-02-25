@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background: linear-gradient(#00eaff 0%, #15ff00 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 200px;
+}
+
+#hobby {
+    font-size: 30px;
+    color: beige;
+}
+
+#c {
+    font-size: 30px;
+    color: beige;
+}
+
+.line {
+    background-color: #ffff00;
+    margin: 8px auto;
+    height: 5px;
+    width: 200px;
+}
+
+p {
+    font-size: 20px;
+    color: #1f1f1f;
+}
+
+.menu {
+    float: right;
+    list-style: none;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.link {
+    display: inline;
+}
+
+#cy {
+    padding-top: 20px;
+}
+.contact2{
+    font-size: 40px;
+    color: firebrick;
+    
+}
